@@ -1,0 +1,5 @@
+extends: airbnb-base
+rules:
+    semi: 0
+plugins:
+  - import

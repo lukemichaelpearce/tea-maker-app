@@ -1,0 +1,30 @@
+.team-card__card-content {
+    min-height: 150px;
+}
+.team-card__card-content li {
+    text-align: left;
+}
+.team-card__card-content li span {
+    display: inline;
+}
+.team-card__card-content .fa {
+    display: inline;
+    margin-right: 10px;
+    font-size: 18px;
+    color: lightgray;
+}
+.team-card__card-content li .is-active {
+    font-weight: bold;
+}
+.team-card__card-content li .is-active .fa {
+    color: limegreen;
+}
+.team-card__card-footer > div {
+    width: 100%;
+}
+.team-card__card-footer input {
+    width: 75%;
+}
+.team-card__card-footer__add-button {
+    width: 25%;
+}
